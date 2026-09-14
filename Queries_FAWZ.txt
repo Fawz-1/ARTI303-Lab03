@@ -1,0 +1,23 @@
+41 ?- father(abdullah, yousef).
+false.
+
+42 ?- mother(sara, yousef).
+true.
+
+43 ?- mother(afaf, yousef).
+false.
+
+44 ?- sister(maria, mahdi).
+true .
+
+45 ?- sister(sara, hadi).
+false.
+
+46 ?- father(abdullah, hadi).
+true.
+
+47 ?- brother(yousef, maria).
+false.
+
+48 ?- brother(khalid, me).
+true 
